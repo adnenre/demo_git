@@ -13,8 +13,8 @@
 ##### - $ git clone linkOfRepo  --> clone a repository in your machin " copy the link from github"
 ##### - $ git push origin master  --> send all to github branche master
 
-##### - $ remote 
+##### -  remote 
 Save your code :
 localy (if you have multiple computers) or send it to github ou BitBucket
-##### - $ Github
+##### -  Github
 Github is an online service that allows you to host code repositories. GitHub is a free tool for hosting open source code, and also offers paid plans for private code projects. It is the world number 1 and it hosts more than a dozen million repositories!
