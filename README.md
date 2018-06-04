@@ -13,6 +13,16 @@
 ##### - $ git clone linkOfRepo  --> clone a repository in your machin " copy the link from github"
 ##### - $ git push origin master  --> send all to github branche master
 
+##### - if you want to change the remote 
+##### - $git remote set-url origin [//your github url]
+##### - if you have a msg that tells you " Updates were rejected because the remote contains work that you do not have locally"
+##### - //pull those changes
+
+##### - $ git pull origin master
+
+##### - //now, push your work to your new repo
+
+##### -$ git push origin master
 ##### -  remote 
 Save your code :
 localy (if you have multiple computers) or send it to github ou BitBucket
